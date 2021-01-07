@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1624" started-at="2020-10-05T07:28:36Z" finished-at="2020-10-05T07:28:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1624" started-at="2020-10-05T07:28:36Z" finished-at="2020-10-05T07:28:37Z">
+      <class name="basicrequest.PostReq1">
+        <test-method status="PASS" signature="PostReq1()[pri:0, instance:basicrequest.PostReq1@d8355a8]" name="PostReq1" duration-ms="1608" started-at="2020-10-05T07:28:36Z" finished-at="2020-10-05T07:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostReq1 -->
+      </class> <!-- basicrequest.PostReq1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Suite -->
+</testng-results>
